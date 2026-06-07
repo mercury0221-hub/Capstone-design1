@@ -1,0 +1,12 @@
+{
+  "grid": {
+    "width": 10,
+    "height": 8
+  },
+  "rooms": [
+    { "name": "living",   "targetArea": 30, "color": "#B5D4F4" },
+    { "name": "bedroom",  "targetArea": 20, "color": "#CECBF6" },
+    { "name": "kitchen",  "targetArea": 16, "color": "#C0DD97" },
+    { "name": "bathroom", "targetArea": 14, "color": "#FAC775" }
+  ]
+}

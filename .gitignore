@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 생성 결과물 (output 폴더는 유지하되 산출물은 추적 안 함)
+output/*
+!output/.gitkeep
+
+# 대화 내보내기 등
+*-init.txt
